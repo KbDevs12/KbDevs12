@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/KbDevs12/KbDevs12/output/snake.svg" alt="Snake animation" />
+// <img src="https://raw.githubusercontent.com/KbDevs12/KbDevs12/output/snake.svg" alt="Snake animation" />
 
 ###
 
