@@ -1,6 +1,6 @@
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://discord.com/users/698069399285792848" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
