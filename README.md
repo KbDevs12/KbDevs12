@@ -51,4 +51,6 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zloc5mj27msxkshpf56fd7uiwe&count=10)
+<div align="center">
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zloc5mj27msxkshpf56fd7uiwe&count=10)
+</div>
